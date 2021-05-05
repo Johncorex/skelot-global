@@ -1,0 +1,120 @@
+<!--DECORAÇÃO>
+adamant shield
+badger fur 
+
+parei em Christmas Garland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Valuables-->
+Amber (Item)	
+Amber with a Bug
+Amber with a Dragonfly
+ancient liche bone
+cursed bone
+Death toll
+diamond
+eye of the chasm
+final judgement
+ghost claw
+giant amethyst
+giant topaz
+golden sea horse figurine
+heavilly rusted armor
+heavilly rusted helmet
+heavilly rusted legs
+heavilly rusted shield
+ivory comb
+Lots
+luminescent crystal
+medal of valiance
+moonstone
+noble amulet
+rusted armor
+rusted helmet
+rusted legs
+rusted shield
+shadow cowl
+silver hand mirror
+skull coin
+slightly rusted armor
+slightly rusted helmet
+slightly rusted legs
+slightly rusted shield
+the spectral scrap of cloth
+token of love
+tournament coins
+tournament ticket voucher
+White Gem
+<--FIM Valuables-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<attribute key="loottype" value="decoration" />
+
+<attribute key="loottype" value="food" />
+
+<attribute key="loottype" value="other" />
+
+<attribute key="loottype" value="potion" />
+
+<attribute key="loottype" value="tools" />
+
+<attribute key="loottype" value="valuables" />
+
+<attribute key="loottype" value="product" />
+
+<attribute key="loottype" value="retrieve" />
+
+
+
+
+
+
+
+
+
+
+
